@@ -7,9 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.testcontainers.elasticsearch.ElasticsearchContainer;
-import pl.piomin.services.elasticsearch.model.Department;
-import pl.piomin.services.elasticsearch.model.Employee;
-import pl.piomin.services.elasticsearch.model.Organization;
+import pl.piomin.services.elasticsearch.entity.*;
 import pl.piomin.services.elasticsearch.repository.EmployeeRepository;
 
 import java.util.List;

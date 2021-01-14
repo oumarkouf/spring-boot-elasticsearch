@@ -10,9 +10,7 @@ import org.junit.rules.TestRule;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.test.web.client.TestRestTemplate;
-import pl.piomin.services.elasticsearch.model.Department;
-import pl.piomin.services.elasticsearch.model.Employee;
-import pl.piomin.services.elasticsearch.model.Organization;
+import pl.piomin.services.elasticsearch.entity.*;
 
 import java.util.Random;
 

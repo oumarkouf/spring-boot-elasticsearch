@@ -2,8 +2,8 @@
 /Users/oumarkouferidji/Downloads/sample-spring-elasticsearch-master/src/main/java/pl/piomin/services/elasticsearch/config/SwaggerConfig.java
 /Users/oumarkouferidji/Downloads/sample-spring-elasticsearch-master/src/main/java/pl/piomin/services/elasticsearch/controller/EmployeeController.java
 /Users/oumarkouferidji/Downloads/sample-spring-elasticsearch-master/src/main/java/pl/piomin/services/elasticsearch/SampleApplication.java
+/Users/oumarkouferidji/Downloads/sample-spring-elasticsearch-master/src/main/java/pl/piomin/services/elasticsearch/entity/Organization.java
 /Users/oumarkouferidji/Downloads/sample-spring-elasticsearch-master/src/main/java/pl/piomin/services/elasticsearch/config/ElasticsearchConfiguration.java
-/Users/oumarkouferidji/Downloads/sample-spring-elasticsearch-master/src/main/java/pl/piomin/services/elasticsearch/model/Department.java
-/Users/oumarkouferidji/Downloads/sample-spring-elasticsearch-master/src/main/java/pl/piomin/services/elasticsearch/model/Employee.java
+/Users/oumarkouferidji/Downloads/sample-spring-elasticsearch-master/src/main/java/pl/piomin/services/elasticsearch/entity/Employee.java
+/Users/oumarkouferidji/Downloads/sample-spring-elasticsearch-master/src/main/java/pl/piomin/services/elasticsearch/entity/Department.java
 /Users/oumarkouferidji/Downloads/sample-spring-elasticsearch-master/src/main/java/pl/piomin/services/elasticsearch/repository/EmployeeRepository.java
-/Users/oumarkouferidji/Downloads/sample-spring-elasticsearch-master/src/main/java/pl/piomin/services/elasticsearch/model/Organization.java
