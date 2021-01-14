@@ -1,4 +1,4 @@
-package pl.piomin.services.elasticsearch.model;
+package pl.piomin.services.elasticsearch.entity;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;

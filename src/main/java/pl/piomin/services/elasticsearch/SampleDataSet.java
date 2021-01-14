@@ -7,9 +7,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.task.TaskExecutor;
 import org.springframework.data.elasticsearch.core.ElasticsearchTemplate;
 import org.springframework.data.elasticsearch.core.query.IndexQuery;
-import pl.piomin.services.elasticsearch.model.Department;
-import pl.piomin.services.elasticsearch.model.Employee;
-import pl.piomin.services.elasticsearch.model.Organization;
+import pl.piomin.services.elasticsearch.entity.Department;
+import pl.piomin.services.elasticsearch.entity.Employee;
+import pl.piomin.services.elasticsearch.entity.Organization;
 
 import javax.annotation.PostConstruct;
 import java.util.ArrayList;

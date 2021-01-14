@@ -1,16 +1,18 @@
-package pl.piomin.services.elasticsearch.model;
+package pl.piomin.services.elasticsearch.entity;
 
-public class Department {
+public class Organization {
 
     private Long id;
     private String name;
+    private String address;
 
-    public Department() {
+    public Organization() {
     }
 
-    public Department(Long id, String name) {
+    public Organization(Long id, String name, String address) {
         this.id = id;
         this.name = name;
+        this.address = address;
     }
 
     public Long getId() {
@@ -29,9 +31,17 @@ public class Department {
         this.name = name;
     }
 
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
     @Override
     public String toString() {
-        return "Department{" +
+        return "Organization{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 '}';
