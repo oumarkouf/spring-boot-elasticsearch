@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: sample-spring-elasticsearch
+  data:
+    elasticsearch:
+      cluster-name: docker-cluster
+      cluster-nodes: 0.0.0.0:9300
+
+  elasticsearch:
+    rest:
+      uris: http://0.0.0.0:9200
+
+initial-import:
+  enabled: false
+  
