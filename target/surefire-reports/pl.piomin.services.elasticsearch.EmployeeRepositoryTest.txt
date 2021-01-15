@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: pl.piomin.services.elasticsearch.EmployeeRepositoryTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.133 s <<< FAILURE! - in pl.piomin.services.elasticsearch.EmployeeRepositoryTest
-pl.piomin.services.elasticsearch.EmployeeRepositoryTest  Time elapsed: 4.132 s  <<< ERROR!
-java.lang.ExceptionInInitializerError
-	at pl.piomin.services.elasticsearch.EmployeeRepositoryTest.<clinit>(EmployeeRepositoryTest.java:23)
-
